@@ -5,7 +5,7 @@ restaurantes = [{'nome' : 'Praça', 'categoria' : 'Japonesa', 'ativo':False},
                 {'nome' : 'Burger', 'categoria' : 'burger', 'ativo':False}]
 
 def exibir_nome_do_programa():
-    print("PICANHA EXPRESS")
+    print("Alimento EXPRESS")
 
 def exibir_opcoes():
     print('1. Cadastrar restaurante')
